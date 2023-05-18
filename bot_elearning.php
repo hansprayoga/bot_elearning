@@ -6,7 +6,7 @@
 
 //UBAH USERNAME & PASSWORD E-LEARNING MILIKMU!!
 $username = "19201069";
-$password = "hans108@";
+$password = "";
 
 
 //SEMUA BERAWAL DARI SINI JANGAN DIEDIT!!
